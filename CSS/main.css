@@ -33,7 +33,6 @@ main h1{
     border-right: 0;
     width: 200px;
     height: 35vh;
-    
 } 
 #perfume{
     font-size: 15px;
@@ -53,7 +52,6 @@ main h1{
     transform: scale(1.5);
 }
 .rightContent{
-
     width: 30%
 }
 #watch{
@@ -61,9 +59,6 @@ main h1{
 }
 .rightContent p{
     text-align: left;
-     /* margin-top: 80px; 
-    font-size: 30px;
-    font-weight: 500; */
     text-transform: capitalize;
     color: brown;
     font-family: cursive;
